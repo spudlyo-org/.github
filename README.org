@@ -1,0 +1,4 @@
+* spudlyo-org
+
+This organization allows me to use more GitHub Enterprise features like branch
+protection in private repos.
